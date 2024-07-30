@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"urlshort/urlshort"
+
+	"github.com/Omkar-Patil16/url-shortener/urlshort"
 )
 
 func main() {
